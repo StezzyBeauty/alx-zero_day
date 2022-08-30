@@ -1,1 +1,1 @@
-I love ALX SE
+I love ALX School
